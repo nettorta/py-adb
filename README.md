@@ -1,7 +1,9 @@
 # py-adb
-python adb implementation
+Pure python adb implementation via libusb1. 
 
-py_adb supports sessions 
+py_adb supports multiple concurrent command for one device at a timee 
+
+Inspired by: https://github.com/google/python-adb
 
 sample usage:
 
